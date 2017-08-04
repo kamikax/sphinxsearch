@@ -31,7 +31,7 @@ After updating composer, add the ServiceProvider to the "providers" array in con
 ```php
 	'providers' => array(
         /*** Some others providers ***/
-        'kamikax\SphinxSearch\SphinxSearchServiceProvider',
+        kamikax\SphinxSearch\SphinxSearchServiceProvider::class,
     ),
 ```
 
