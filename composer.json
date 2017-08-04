@@ -18,7 +18,7 @@
   "require": {
     "php": ">=5.3.0",
     "illuminate/support": "~5.0",
-    "kamikax/sphinxphpclient": "dev-master / 2.0.x-dev"
+    "kamikax/sphinxphpclient": "dev-master"
   },
   "autoload": {
     "psr-0": {
