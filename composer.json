@@ -7,6 +7,7 @@
     "laravel",
     "laravel 5"
   ],
+  "minimum-stability": "dev",
   "homepage": "http://github.com/kamikax/sphinxsearch",
   "license": "Apache-2.0",
   "authors": [
@@ -18,7 +19,7 @@
   "require": {
     "php": ">=5.3.0",
     "illuminate/support": "~5.0",
-    "kamikax/wtsphinxphp": ">=1.0"
+    "kamikax/wtsphinxphp": "dev-master"
   },
   "autoload": {
     "psr-0": {
