@@ -7,7 +7,6 @@
     "laravel",
     "laravel 5"
   ],
-  "minimum-stability": "dev",
   "homepage": "http://github.com/kamikax/sphinxsearch",
   "license": "Apache-2.0",
   "authors": [
